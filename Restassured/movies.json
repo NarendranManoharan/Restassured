@@ -1,0 +1,18 @@
+{
+  "genres" : [ "Action", "Drama", "comedy" ],
+  "movies" : [ {
+    "title" : "Master",
+    "year" : 2022,
+    "cast" : [ "JD", "Bavani", "Bargav mosamanvan" ]
+  }, {
+    "title" : "Vikram",
+    "year" : 2023,
+    "cast" : [ "Vikram", "Amar", "Rolexxx" ]
+  } ],
+  "otherdetails" : {
+    "langugae" : "Tamil",
+    "country" : "Indian"
+  },
+  "category" : "heros movies in tamil",
+  "acceptedfranchise" : [ "LCU", "ICU" ]
+}
